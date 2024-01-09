@@ -1,0 +1,1000 @@
+
+ 1138  ls
+ 1139  code
+ 1140  code .
+ 1141  cd ..
+ 1142  cd shoe-catalogue/
+ 1143  nodemon
+ 1144  cd ..
+ 1145  cd shoe_api/
+ 1146  git remote add origin https://github.com/AsiFen/shoes_api.git
+ 1147  git branch -M main
+ 1148  git push -u origin main
+ 1149  nodemon
+ 1150  npm install
+ 1151  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1152  git remote add origin https://github.com/AsiFen/shoes_api.git
+ 1153  git branch -M main
+ 1154  git push -u origin main
+ 1155  git add .
+ 1156  git commit -m "added git ignore"
+ 1157  npm install
+ 1158  npm init es6
+ 1159  npm install
+ 1160  npm install express express-handlebars mocha nodemon pg pg-promise dotenv body-parser express-flash express-session handlebars --save
+ 1161  git add .
+ 1162  git commit -m "added show all shoes route"
+ 1163  git push originmain
+ 1164  git push origin main
+ 1165  sudo killall node
+ 1166  cd projects/back-end/shoe_api/
+ 1167  nodemon
+ 1168  git remote add origin https://github.com/AsiFen/shoes_api.git
+ 1169  git branch -M main
+ 1170  git push -u origin main
+ 1171  git remote -v
+ 1172  git init
+ 1173  git add .
+ 1174  git commit -m "added all file"
+ 1175  git push origin main
+ 1176  git remote add origin https://github.com/AsiFen/shoes_api.git
+ 1177  git push origin main
+ 1178  git commit -m "added all file"
+ 1179  git checkout -b 
+ 1180  git -b checkout main
+ 1181  git checkout -b main
+ 1182  git add .
+ 1183  git commit -m "added all file"
+ 1184  git push origin main
+ 1185  cd ..
+ 1186  shoe-catalogue/
+ 1187  nodemon
+ 1188  cd shoe-catalogue/
+ 1189  nodemon
+ 1190  git add .
+ 1191  git commit -m "git ignore file"
+ 1192  npm install
+ 1193  npm ibit es6
+ 1194  npm instal axios
+ 1195  git add .
+ 1196  git commit -m "added axios"
+ 1197  git push origin gh-pages
+ 1198  git push origin main
+ 1199  git init
+ 1200  git remote -v
+ 1201  git branhc
+ 1202  git branch
+ 1203  git push origin master
+ 1204  git pull origin master
+ 1205  git push origin master
+ 1206  cd projects/back-end/shoe-catalogue/
+ 1207  nodemon
+ 1208  cd ..
+ 1209  cd waiter_webapp/
+ 1210  nodemon
+ 1211  cd ..
+ 1212  cd shoe_api/
+ 1213  nodemon
+ 1214  cd ..
+ 1215  cd shoe-catalogue/
+ 1216  nodemon
+ 1217  psql users
+ 1218  git clone https://github.com/AsiFen/BasicExpressWebApp.git
+ 1219  cd projects/back-end/
+ 1220  git clone https://github.com/AsiFen/BasicExpressWebApp.git
+ 1221  code .
+ 1222  cd BasicExpressWebApp/
+ 1223  code .
+ 1224  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1225  git add .
+ 1226  git commit -m "added brand size"
+ 1227  git push origin main
+ 1228  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1229  git add .
+ 1230  git commit -m " added update and add api route"
+ 1231  cd projects/back-end/shoe-catalogue/
+ 1232  cd ..
+ 1233  cd shoe_
+ 1234  cd shoe_api/
+ 1235  nodemon
+ 1236  cd ..
+ 1237  cd shoe-catalogue/
+ 1238  cd ..
+ 1239  cd shoe_api/
+ 1240  nodemon
+ 1241  cd ..
+ 1242  cd shoes-
+ 1243  cd shoe-catalogue/
+ 1244  nodemon
+ 1245  clear
+ 1246  nodemon
+ 1247  rs
+ 1248  clear
+ 1249  cd shoe
+ 1250  nodemon
+ 1251  git add .
+ 1252  git commit-m "Show shoes"
+ 1253  git push main
+ 1254  git add .
+ 1255  git commit -m " image"
+ 1256  git push origin main
+ 1257  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1258  git add .
+ 1259  git commit -m " image"
+ 1260  git push origin main
+ 1261  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1262  git add .
+ 1263  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1264  git add .
+ 1265  git commit -m "added img url"
+ 1266  git push origin main
+ 1267  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual[A
+ 1268  git add .
+ 1269  git commit -m "removed comment"
+ 1270  git add .
+ 1271  git commit -m "removed comment"
+ 1272  git push origin main
+ 1273  git add .
+ 1274  git commit -m "added env file and new elephant db link"
+ 1275  nodemon
+ 1276  npm init es6
+ 1277  npm install
+ 1278  npm init 
+ 1279  npm init
+ 1280  npm install
+ 1281  npm update
+ 1282  npm init
+ 1283  nodemon
+ 1284  [A
+ 1285  nodemon
+ 1286  npm init es6
+ 1287  nodemon
+ 1288  npm install dayjs
+ 1289  nodemon
+ 1290  npm install bcrypt
+ 1291  nodemon
+ 1292  npm install express express-handlebars mocha nodemon pg pg-promise dotenv body-parser express-flash express-session handlebars --save
+ 1293  nodemon
+ 1294  git add .
+ 1295  git commit -m "cmmnJS to es6, engine syntax"
+ 1296  nodemon
+ 1297  psql users;
+ 1298  nodemon
+ 1299  psql users;
+ 1300  nodemon
+ 1301  gitit add .
+ 1302  git commit -m "added"
+ 1303  git commit -a
+ 1304  nodemon
+ 1305  cd ..
+ 1306  cd shoe_api/
+ 1307  nodemon
+ 1308  cd projects/back-end/shoe-catalogue/
+ 1309  nodemon
+ 1310  git add .
+ 1311  git commit -m "added api"
+ 1312  git push origin master 
+ 1313  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1314  git add .
+ 1315  git commit -m "db change"
+ 1316  git push origin main
+ 1317  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1318  git add .
+ 1319  git commit -m "x"
+ 1320  git push origin main
+ 1321  git add .
+ 1322  git commit -m "x"
+ 1323  git push origin main
+ 1324  git push origin master 
+ 1325  psql postgres://hjkahual:WkBY96G8s8wo9qiKZMGJnVbjKNqX39HV@ella.db.elephantsql.com/hjkahual
+ 1326  import cors 
+ 1327  npm i cors
+ 1328  git add .
+ 1329  git commit -m "cors added"
+ 1330  git push origin main
+ 1331  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1332  git add .
+ 1333  git commit -m "asi"
+ 1334  git commit -m "cors added"
+ 1335  git push origin main
+ 1336  git add .
+ 1337  git commit -m "analytics"
+ 1338  git push origin main
+ 1339  git push origin ma
+ 1340  git push origin master
+ 1341  git add .
+ 1342  git commit -m "analytics"
+ 1343  git push origin master
+ 1344  cd projects/back-end/shoe-catalogue/
+ 1345  nodemon
+ 1346  cd projects/back-end/shoe-catalogue/
+ 1347  nodemon
+ 1348  git add .
+ 1349  git commit -m "laptop reboot"
+ 1350  git push origin main
+ 1351  git add .
+ 1352  git commit -m "change select"
+ 1353  git push origin main
+ 1354  git add .
+ 1355  git commit -m "laptop reboot"
+ 1356  git push origin main
+ 1357  git add .
+ 1358  git commit -m "added getbrand names route"
+ 1359  git push origin master 
+ 1360  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1361  git add .
+ 1362  git commit -m "added for nav"
+ 1363  git push origin main
+ 1364  git add .
+ 1365  git commit -m "added return"
+ 1366  git push origin main
+ 1367  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1368  git add .
+ 1369  git commit -m "added color filter"
+ 1370  git push origin main 
+ 1371  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1372  cd ..
+ 1373  nodemon 
+ 1374  git add .
+ 1375  git commit -m "added color filter"
+ 1376  git push origin master 
+ 1377  git add .
+ 1378  git commit -m "added api from render"
+ 1379  git push origin main
+ 1380  git push origin master 
+ 1381  git add .
+ 1382  git commit -m "added api from render"
+ 1383  git push origin master 
+ 1384  cd ..
+ 1385  cd shoe-api
+ 1386  cd shoe_api/
+ 1387  nodemon
+ 1388  cd projects/back-end/shoe-catalogue/nodemon
+ 1389  cd projects/back-end/shoe-catalogue
+ 1390  nodemon 
+ 1391  cd ..
+ 1392  cd shoe_api/
+ 1393  n
+ 1394  nodemon
+ 1395  cd projects/back-end/shoe-catalogue/nodemon
+ 1396  cd projects/back-end/shoe-catalogue
+ 1397  nodemon 
+ 1398  git add .
+ 1399  git commit -m "added form"
+ 1400  nmp install colornames
+ 1401  npm install colornames
+ 1402  cd projects/back-end/shoe-catalogue
+ 1403  nodemon 
+ 1404  cd ..
+ 1405  cd shoe-`
+ 1406  cd shoe-catalogue/
+ 1407  nodemon 
+ 1408  cd ..
+ 1409  cd shoe_api/
+ 1410  nodemon 
+ 1411  git add .
+ 1412  git commit -m "edited name"
+ 1413  git push origin master 
+ 1414  cd ..
+ 1415  cd shoe_api/
+ 1416  nodemon
+ 1417  cd projects/back-end/shoe-catalogue/
+ 1418  nodemon
+ 1419  cd projects/back-end/
+ 1420  nodemon
+ 1421  shoe-catalogue/
+ 1422  nodemon
+ 1423  shoe-catalogue/
+ 1424  ls
+ 1425  shoe-catalogue/
+ 1426  shoe-catalogue
+ 1427  shoe-catalogue/cd ..
+ 1428  cd ..
+ 1429  cd shoe_api/
+ 1430  nodemon 
+ 1431  cd ..
+ 1432  cd shoe-catalogue/
+ 1433  nodemon
+ 1434  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1435  git add .
+ 1436  git commit -m "seer"
+ 1437  git push origin main
+ 1438  cd projects/back-end/shoe_api/
+ 1439  git add .
+ 1440  git commit -m "added sign up "
+ 1441  git push origin master 
+ 1442  git push origin main
+ 1443  npm update
+ 1444  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1445  git add .
+ 1446  git commit -m "added sign up function, endpoint is api/user"
+ 1447  git push origin main
+ 1448  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1449  git add .
+ 1450  git commit -m "added sign up function, endpoint is api/user"
+ 1451  git add .
+ 1452  git commit -m "added sign up function, endpoint is api/user"
+ 1453  git push origin main
+ 1454  cd ..
+ 1455  cd shoe-catalogue/
+ 1456  nodemon
+ 1457  cd ..
+ 1458  cd shoe_api/
+ 1459  nodemon
+ 1460  git add .
+ 1461  git commit -m "added code for login, sign up, redirect to cart"
+ 1462  git push origin main
+ 1463  git push origin master 
+ 1464  git add .
+ 1465  git commit -m "added code for login, sign up, redirect to cart"
+ 1466  git push origin master 
+ 1467  psql postgres://xuzmmpuw:38GokjRo-LzmZSEB23wbKkQPvhU1meI4@ella.db.elephantsql.com/xuzmmpuw
+ 1468  git add .
+ 1469  git commit -m "added cart and add to cart end point"
+ 1470  git push origin main
+ 1471  cd projects/
+ 1472  ls
+ 1473  cd things/
+ 1474  cd umuzi_bootcamp/
+ 1475  node task8
+ 1476  cd ./
+ 1477  cd ..
+ 1478  cd back-end/
+ 1479  shoe-catalogue/
+ 1480  nodemon
+ 1481  cd ..
+ 1482  cd shoe_api/
+ 1483  nodemon
+ 1484  cd projects/back-end/shoe-catalogue/
+ 1485  nodemon
+ 1486  history 
+ 1487  database_url = 
+ 1488  postgres://postgres:codex123@localhost:5432/users
+ 1489  psql postgres://postgres:codex123@localhost:5432/users
+ 1490  node task8
+ 1491  clear
+ 1492  node task8
+ 1493  cd projects/front-end/online_portfolio/
+ 1494  nodemon
+ 1495  git add .
+ 1496  git commit -m "added env"
+ 1497  git pull origin 
+ 1498  git pull origin main
+ 1499  git pull origin master
+ 1500  git push origin main
+ 1501  git branch 
+ 1502  git checkout -b main
+ 1503  git pull origin main 
+ 1504  git push origin main
+ 1505  git pull origin main 
+ 1506  git push origin master 
+ 1507  git pull origin main 
+ 1508  git push origin main
+ 1509  git pull origin 
+ 1510  git pull origin master 
+ 1511  cd ..
+ 1512  cd..
+ 1513  cd .
+ 1514  cd ..\
+ 1515  cd .
+ 1516  cd ..
+ 1517  cd projects/back-end/
+ 1518  mkdir express-tracker-app
+ 1519  mkdir expense-tracker-app
+ 1520  cd expense-tracker-app/
+ 1521  git remote add origin https://github.com/AsiFen/expense-tracker-app.git
+ 1522  git remote -v
+ 1523  git init
+ 1524  git remote add origin https://github.com/AsiFen/expense-tracker-app.git
+ 1525  npm install
+ 1526  npm init es6
+ 1527  npm install
+ 1528  git add .
+ 1529  git commit -m "added env"
+ 1530  git brach
+ 1531  git branch
+ 1532  git checkout -b main
+ 1533  git push origin main 
+ 1534  clear
+ 1535  psql postgres://lpzepxku:angTqyEDTXu-OWR19y_Tj9J9cpAJNoYc@hansken.db.elephantsql.com/lpzepxku
+ 1536  psql asisipho
+ 1537  history
+ 1538  psql -d users -U asisipho
+ 1539  mocha
+ 1540  psql -d users -U asisipho
+ 1541  mocha
+ 1542  psql -d users -U codex
+ 1543  mocha
+ 1544  \q
+ 1545  npm test
+ 1546  mocha
+ 1547  \q\q
+ 1548  \
+ 1549  \git add .
+ 1550  git commit -m "added test 1"
+ 1551  git push origin main 
+ 1552  git pull origin main 
+ 1553  git push origin main 
+ 1554  mocha
+ 1555  \q
+ 1556  mocha
+ 1557  psql -d users -U asisipho
+ 1558  psql -d users -U asisipho
+ 1559  mocha
+ 1560  \q
+ 1561  \q\q
+ 1562  git add .
+ 1563  git commit -m "Added test"
+ 1564  mocha
+ 1565  \qx
+ 1566  mocha
+ 1567  git add .
+ 1568  git commit -m "added tests"
+ 1569  git push origin main 
+ 1570  psql -d users -U asisipho
+ 1571  git add .
+ 1572  git commit -m "added total"
+ 1573  git push origin main
+ 1574  psql postgres://lpzepxku:angTqyEDTXu-OWR19y_Tj9J9cpAJNoYc@hansken.db.elephantsql.com/lpzepxku
+ 1575  mocha
+ 1576  \q\
+ 1577  psql postgres://lpzepxku:angTqyEDTXu-OWR19y_Tj9J9cpAJNoYc@hansken.db.elephantsql.com/lpzepxku
+ 1578  git add .
+ 1579  git commit -m "added view Expenses"
+ 1580  git push origin main
+ 1581  git add .
+ 1582  git commit -m "added delete"
+ 1583  git push origin main
+ 1584  git add .
+ 1585  git commit -m "added filter page"
+ 1586  git push origin main 
+ 1587  git add 
+ 1588  git add .
+ 1589  git commit -m "added links"
+ 1590  git push origin main
+ 1591  cd projects/back-end/
+ 1592  mkdir express-tracker-app
+ 1593  cd express-tracker-app/
+ 1594  git init
+ 1595  git remote add https://github.com/AsiFen/expense-trackerr-app.gitgi
+ 1596  git remote add https://github.com/AsiFen/expense-trackerr-app.git
+ 1597  git remote add origin https://github.com/AsiFen/expense-trackerr-app.git
+ 1598  git remtote -v
+ 1599  git remote -v
+ 1600  code .
+ 1601  cd projects
+ 1602  cd ..
+ 1603  cd projects/back-end/
+ 1604  mkdir expense-tracker-app
+ 1605  git remote add origin https://github.com/AsiFen/expense-tracker-app.git
+ 1606  git remote -v
+ 1607  mkdir expenses-tracker-app
+ 1608  git remote add origin https://github.com/AsiFen/expense-tracker-app.git
+ 1609  git remote -v
+ 1610  cd expense-tracker-app/
+ 1611  git remote add origin https://github.com/AsiFen/expense-tracker-app.git
+ 1612  git init
+ 1613  git remote add origin https://github.com/AsiFen/expense-tracker-app.git
+ 1614  git remote
+ 1615  git remote -v
+ 1616  code .
+ 1617  clear
+ 1618  nodemon
+ 1619  rs
+ 1620  nodemon
+ 1621  cd ..
+ 1622  mkdir fuel-consumption
+ 1623  cd fuel-consumption/
+ 1624  git add remote origin https://github.com/AsiFen/fuel-consumption-api.git
+ 1625  git init
+ 1626  git add remote origin https://github.com/AsiFen/fuel-consumption-api.git
+ 1627  git remote add origin https://github.com/AsiFen/fuel-consumption-api.git
+ 1628  code .
+ 1629  cd ..
+ 1630  node s.js
+ 1631  const connectionString = process.env.database_url || 'postgresql://asisipho:asisipho123@localhost:5432/users';
+ 1632  psql -d users -U asisipho
+ 1633  npm test
+ 1634  psql -U fuel -d fuel_consumption
+ 1635  npm test
+ 1636  git add .
+ 1637  git commit -m "added conn string"
+ 1638  git pull origin main
+ 1639  git add .
+ 1640  git commit -m "added conn string env"
+ 1641  git push origin main 
+ 1642  git add .
+ 1643  git commit -m "added conn string env"
+ 1644  git push origin main 
+ 1645  npm test
+ 1646  psql -U fuel -d fuel_consumption
+ 1647  psql postgres://jfssjgeb:b2dPe2-86lHVAVkzM9Cs0MscJDdqeqQC@ella.db.elephantsql.com/jfssjgeb
+ 1648  git add .
+ 1649  git commit -m "added postgrel db"
+ 1650  git push origin main 
+ 1651  git add .
+ 1652  git commit -m "added postgrel db"
+ 1653  git push origin main 
+ 1654  git add .
+ 1655  git commit -m "added postgrel db"
+ 1656  git push origin main 
+ 1657  git add .
+ 1658  git commit -m "added back the files"
+ 1659  npm install
+ 1660  npm es6
+ 1661  npm init es6
+ 1662  npm install express express-handlebars mocha nodemon pg pg-promise dotenv body-parser express-flash express-session handlebars --save
+ 1663  git add .
+ 1664  git commit -m "added express npm installs"
+ 1665  git add .
+ 1666  git commit -m "added add car screen "
+ 1667  git add .
+ 1668  git commit -m "added record"
+ 1669  git push origin main
+ 1670  git pull origin main 
+ 1671  git push origin main
+ 1672  psql postgres://jfssjgeb:b2dPe2-86lHVAVkzM9Cs0MscJDdqeqQC@ella.db.elephantsql.com/jfssjgeb
+ 1673  git add .
+ 1674  git commit -m "added nav"
+ 1675  git push origin main 
+ 1676  npm test
+ 1677  git add .
+ 1678  git commit -m "added test"
+ 1679  git push origin main
+ 1680  node nje
+ 1681  node task8
+ 1682  clear
+ 1683  node task8
+ 1684  clear
+ 1685  node task8
+ 1686  ls
+ 1687  git branch 
+ 1688  clear
+ 1689  git add .
+ 1690  git commit -m "Added my task 1 , first commit"
+ 1691  git push --set-upstream origin task/1
+ 1692  clear
+ 1693  git add .
+ 1694  git commit -m "formatted with pretier"
+ 1695  git push -u origin task/1 
+ 1696  git checkout task/2
+ 1697  git branch
+ 1698  code .
+ 1699  clear
+ 1700  node task2
+ 1701  npm es6
+ 1702  git init es6
+ 1703  git init
+ 1704  clear
+ 1705  git branch
+ 1706  git add .
+ 1707  git init
+ 1708  git add .
+ 1709  git status
+ 1710  cd es6/
+ 1711  rm -rf .git
+ 1712  git status
+ 1713  cd ..
+ 1714  git status
+ 1715  git add .
+ 1716  git commit -m "Added my task 2 , first commit"
+ 1717  git push --set-upstream origin task/2
+ 1718  git checkout task/1
+ 1719  git branch 
+ 1720  node task1
+ 1721  git add .
+ 1722  git commit -m "combined if statements and removed fucntion call"
+ 1723  git push origin task/1
+ 1724  git push -u origin task/1 
+ 1725  git checkout task/2
+ 1726  git branch 
+ 1727  git checkout task/3
+ 1728  git branch 
+ 1729  clear
+ 1730  git add .
+ 1731  git commit -m "first commit"
+ 1732  git pull origin 
+ 1733  git push --set-upstream origin task/3
+ 1734  git checkout task/4
+ 1735  git branch 
+ 1736  clear
+ 1737  git branch 
+ 1738  clea
+ 1739  r
+ 1740  clear
+ 1741  node task4
+ 1742  node task4.js
+ 1743  node task4
+ 1744  clear
+ 1745  node task4
+ 1746  clear
+ 1747  git add .
+ 1748  git commit -m "added function square"
+ 1749  git push --set-upstream origin task/4
+ 1750  git checkout task/5
+ 1751  clear
+ 1752  node task5.js
+ 1753  clear
+ 1754  node task5.js
+ 1755  clear
+ 1756  node task5.js
+ 1757  clear
+ 1758  node task5.js
+ 1759  clear
+ 1760  node task5.js
+ 1761  clear
+ 1762  git add .
+ 1763  git commit -m "added triangle function"
+ 1764  git push --set-upstream origin task/4
+ 1765  git branch 
+ 1766  git push --set-upstream origin task/5
+ 1767  git checkout task/6
+ 1768  clear
+ 1769  node task6.js 
+ 1770  clear
+ 1771  node task6.js 
+ 1772  node task6.js '
+ 1773  node task6.js '
+ 1774  node task6.js '
+ 1775  node task6.js 
+ 1776  clear
+ 1777  cd projects/things/cd umuzi 
+ 1778  cd projects/things/cd umuzi
+ 1779  cd projects/things/umuzi/
+ 1780  git checkout main
+ 1781  git pull
+ 1782  pwd
+ 1783  cd ..
+ 1784  cd ../
+ 1785  cd back-end
+ 1786  cd umuzi
+ 1787  ls
+ 1788  cd ..
+ 1789  cd things/umuzi
+ 1790  cd ..//
+ 1791  cd umuzi
+ 1792  cd ..//
+ 1793  cd umuzi
+ 1794  cd ../../
+ 1795  cd ..
+ 1796  cd projects/things/umuzi
+ 1797  main
+ 1798  man
+ 1799  cd man
+ 1800  man man
+ 1801  git checkout main
+ 1802  code .
+ 1803  node task6.js 
+ 1804  git branch 
+ 1805  git add .
+ 1806  git commit -m "added longest function"
+ 1807  git push --set-upstream origin task/5
+ 1808  git push --set-upstream origin task/6
+ 1809  git checkout task/1
+ 1810  git checkout task/2
+ 1811  git add .
+ 1812  git commit -m "module.export to module.exports"
+ 1813  git push -u origin task/2
+ 1814  git checkout task/3
+ 1815  git add .
+ 1816  git commit -m "module.export to module.exports"
+ 1817  git push -u origin task/3
+ 1818  git checkout task/4
+ 1819  git add .
+ 1820  git commit -m "module.export to module.exports"
+ 1821  git push -u origin task/4
+ 1822  git checkout task/5
+ 1823  git add .
+ 1824  git commit -m "module.export to module.exports"
+ 1825  git push -u origin task/5
+ 1826  git checkout task/6
+ 1827  node task6.js 
+ 1828  git add .
+ 1829  git commit -m "used loop to print"
+ 1830  git push -u origin task/6
+ 1831  git checkout task/7
+ 1832  node task7.js
+ 1833  git add .
+ 1834  git commit -m "added function cobine"
+ 1835  git checkout task/7
+ 1836  git push --set-upstream origin task/5
+ 1837  git push --set-upstream origin task/7
+ 1838  node task1
+ 1839  ls
+ 1840  node task1.js
+ 1841  ls
+ 1842  node task1
+ 1843  clear
+ 1844  node task1.js
+ 1845  node task1
+ 1846  node task8
+ 1847  node task1
+ 1848  clear
+ 1849  node task1
+ 1850  clear
+ 1851  git checkout main
+ 1852  git pull
+ 1853  ls
+ 1854  git clone https://github.com/Umuzi-org/Asisipho-Fente-219-level-1-programming-katas-javascript.git
+ 1855  ls
+ 1856  cd Asisipho-Fente-219-level-1-programming-katas-javascript/
+ 1857  git checkout main
+ 1858  git branch
+ 1859  git checkout -b task/1
+ 1860  git branch 
+ 1861  git checkout main 
+ 1862  git branch 
+ 1863  git checkout -b task/2
+ 1864  git checkout main 
+ 1865  git checkout -b task/3
+ 1866  git checkout main 
+ 1867  git checkout -b task/4
+ 1868  git checkout main 
+ 1869  git checkout -b task/5
+ 1870  git checkout main 
+ 1871  git checkout -b task/6
+ 1872  git checkout main 
+ 1873  git checkout -b task/7
+ 1874  git checkout main 
+ 1875  git checkout -b task/8
+ 1876  git branch 
+ 1877  git checkout main 
+ 1878  git checkout task/1
+ 1879  code .
+ 1880  cd projects/
+ 1881  ls
+ 1882  .
+ 1883  cd ..
+ 1884  cd projects
+ 1885  cd things/
+ 1886  ls
+ 1887  cd umuzi
+ 1888  code .
+ 1889  code
+ 1890  code 
+ 1891  cd projects/things/umuzi
+ 1892  ls
+ 1893  code .
+ 1894  ls
+ 1895  git branch 
+ 1896  ls
+ 1897  cd Asisipho-Fente-219-level-1-programming-katas-javascript/
+ 1898  ls
+ 1899  git branch 
+ 1900  git checkout task/4
+ 1901  git branch 
+ 1902  clear
+ 1903  git pull origin task/4
+ 1904  git add .
+ 1905  git commit 'pull"
+ 1906  git commit "pull"
+ 1907  git commit "pull"
+ 1908  git commit -m "pull"
+ 1909  git pull origin task/4
+ 1910  git add .
+ 1911  git commit -m "pull"
+ 1912  git push origin task/4
+ 1913  cd ..
+ 1914  ls
+ 1915  git clone https://github.com/Umuzi-org/Asisipho-Fente-705-contentitem-javascript.git
+ 1916  ls
+ 1917  hisotry
+ 1918  history
+ 1919  ls
+ 1920  cd Asisipho-Fente-705-contentitem-javascript/
+ 1921  git checkout main
+ 1922  git branch 
+ 1923  git checkout patch-1
+ 1924  git checkout -b patch-1
+ 1925  git branch 
+ 1926  cd src
+ 1927  node shopping_cart.js 
+ 1928  node shopping_cart.js
+ 1929  git add .
+ 1930  git commit -m "added six functions"
+ 1931  git push --set-upstream origin patch-1 
+ 1932  git checkout main 
+ 1933  cd ..
+ 1934  git clone https://github.com/Umuzi-org/Asisipho-Fente-223-person-javascript.git
+ 1935  cd Asisipho-Fente-223-person-javascript/
+ 1936  ls
+ 1937  node person.js 
+ 1938  ls
+ 1939  git b
+ 1940  git branch 
+ 1941  git add .
+ 1942  git commit -m "added person class"
+ 1943  git push --set-upstream origin patch-1 
+ 1944  git add .
+ 1945  git commit -m "added person class"
+ 1946  git push --set-upstream origin patch-1 
+ 1947  cd projects/
+ 1948  ls
+ 1949  cd things/
+ 1950  mkdir hello
+ 1951  cd hello
+ 1952  code .
+ 1953  git add .
+ 1954  git commit -m "added"
+ 1955  git init
+ 1956  git remote add origin https://github.com/AsiFen/ncinane.git
+ 1957  git branch -M main
+ 1958  git push -u origin main
+ 1959  git checkout -b main
+ 1960  git add .
+ 1961  git commit -m "added"
+ 1962  git push origin main
+ 1963  cd projects/
+ 1964  cd things/
+ 1965  mkdir zosuliwe
+ 1966  cd zosuliwe/
+ 1967  code .
+ 1968  npm install tailwindcss
+ 1969  git init 
+ 1970  git remote add origin https://github.com/AsiFen/hello.git
+ 1971  git branch -M main
+ 1972  git push -u origin main
+ 1973  git checkout -b main
+ 1974  git remote add origin https://github.com/AsiFen/hello.git
+ 1975  git add .
+ 1976  git commit -m "added"
+ 1977  git push origin main 
+ 1978  git add .
+ 1979  git commit -m "added"
+ 1980  git push origin main
+ 1981  git pull origin main 
+ 1982  git push origin main
+ 1983  git pull origin main 
+ 1984  git add .
+ 1985  git commit -m "pulled"
+ 1986  cd projects/things/umuzi
+ 1987  ls
+ 1988  cd ..
+ 1989  ls
+ 1990  umuz
+ 1991  cd umuzi
+ 1992  ls
+ 1993  code .
+ 1994  mkdir git-basic-exercises
+ 1995  cd git-basic-exercises/
+ 1996  ls -a
+ 1997  git init 
+ 1998  ls -a
+ 1999  git status
+ 2000  touch README.md
+ 2001  ls -a
+ 2002  git log
+ 2003  git status
+ 2004  git log
+ 2005  git add
+ 2006  git add .
+ 2007  git status
+ 2008  git commit -m "initial commit"
+ 2009  git log
+ 2010  q
+ 2011  nano README.md 
+ 2012  cat README.md 
+ 2013  git status
+ 2014  git commit -m "second commit"
+ 2015  git add .
+ 2016  git commit -m "second commit"
+ 2017  nano README.md 
+ 2018  git add .
+ 2019  git commit -m "third commit"
+ 2020  git log
+ 2021  git checkout b4a4809e279118448f0181a214539bb45d8c2deb
+ 2022  cat README.md 
+ 2023  git checkout master
+ 2024  git branch milkshake-flavours
+ 2025  git branch 
+ 2026  git checkout milkshake-flavours 
+ 2027  nano milkshakes.md
+ 2028  git status 
+ 2029  git add .
+ 2030  git commit -m "added initial flavours"
+ 2031  git checkout -b history
+ 2032  git log
+ 2033  git branch 
+ 2034  history > history.txt
+ 2035  history.txt
+ 2036  ls
+ 2037  git add .
+ 2038  git commit -m "added history"
+ 2039  git chekout milkshakes.md
+ 2040  git checkout milkshakes.md
+ 2041  git checkout milkshakes
+ 2042  git checkout milkshake-flavours 
+ 2043  git log
+ 2044  nano README.md 
+ 2045  git add .
+ 2046  git commit -m "random readme changes"
+ 2047  git checkout history
+ 2048  git log
+ 2049  cat README.md 
+ 2050  git checkout history
+ 2051  rm README.md
+ 2052  echo "booya" > README.md
+ 2053  git add .
+ 2054  git commit -m "rewrote readme"
+ 2055  gitcheckout master
+ 2056  git checkout master
+ 2057  ls
+ 2058  git log
+ 2059  git checkout milkshake-flavours 
+ 2060  ls
+ 2061  git log
+ 2062  git checkout history 
+ 2063  ls
+ 2064  git log
+ 2065  git branch 
+ 2066  cd ..
+ 2067  mkdir git-basic
+ 2068  git init
+ 2069  git status
+ 2070  cd git-basic
+ 2071  git status
+ 2072  ls -a
+ 2073  git init
+ 2074  ls -a
+ 2075  git status
+ 2076  touch README.md
+ 2077  ls -a
+ 2078  git branch 
+ 2079  git status
+ 2080  git log
+ 2081  git branch 
+ 2082  git branch main
+ 2083  git checkout -b main
+ 2084  git branch 
+ 2085  git log
+ 2086  ls
+ 2087  cd ls
+ 2088  cd ..
+ 2089  ls
+ 2090  rm git-basic
+ 2091  rm -r git-basic
+ 2092  ls
+ 2093  rm -r git-basic-exercises/
+ 2094  ls
+ 2095  rm -r git-basic-exercises/
+ 2096  ls
+ 2097  clear
+ 2098  ls
+ 2099  mkdir git-basic-exercises
+ 2100  cd git-basic-exercises/
+ 2101  git init 
+ 2102  touch README.md
+ 2103  git log
+ 2104  git status
+ 2105  git add .
+ 2106  git commit -m "initial commit"
+ 2107  git log
+ 2108  nano README.md
+ 2109  cat README.md 
+ 2110  git commit -m "second commit"
+ 2111  git add .
+ 2112  git commit -m "second commit"
+ 2113  nano README.md
+ 2114  git add .
+ 2115  git commit -m "third commit"
+ 2116  git log
+ 2117  git checkout e5eb710ef8a06ea92ab0b46c90a2de692d33b0dd
+ 2118  cat README.md 
+ 2119  git checkout master 
+ 2120  cat README.md 
+ 2121  git branch milkshake-flavours
+ 2122  git branch 
+ 2123  git checkout milkshake-flavours 
+ 2124  nano milkshakes.md
+ 2125  git status
+ 2126  git add .
+ 2127  git commit -m "added initial flavours"
+ 2128  git log
+ 2129  git checkout master 
+ 2130  ls
+ 2131  git branch 
+ 2132  git branch history
+ 2133  git checkout history 
+ 2134  git log
+ 2135  git branch 
+ 2136  history > history.txt
