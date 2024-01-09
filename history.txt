@@ -1,4 +1,4 @@
- 1137  cd shoe
+
  1138  ls
  1139  code
  1140  code .
